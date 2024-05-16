@@ -19,7 +19,8 @@ i wish i was the critically acclaimed director, alas, just a cs student @ boston
 
 ## get in touch
 
-- LinkedIn: [Chanrithya Nolan Ngim](https://www.linkedin.com/in/cnnolan/)
-- Portfolio: [cnnolan](https://cnnolan.com)
+- linkedin: [Chanrithya Nolan Ngim](https://www.linkedin.com/in/cnnolan/)
+- instagram: [mr_lan1213](https://www.instagram.com/mr_lan1213/)
+- portfolio: [cnnolan](https://cnnolan.com)
 
 please reach out, lets be friends ( ͡° ͜ʖ ͡°)
