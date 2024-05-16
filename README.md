@@ -1,7 +1,5 @@
 # សួស្តី, I'm nolan 
 
-## about Me
-
 i wish i was the critically acclaimed director, alas, just a cs student @ boston university. i thrive on exploring new ideas and perspectives, always striving to learn from those around me. 
 
 - i’m currently working on an e-commerce website for an online store in cambodia. 
