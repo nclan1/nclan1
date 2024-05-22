@@ -6,7 +6,9 @@ i wish i was the critically acclaimed director, alas, just a cs student @ boston
 - i'm currently learning databases + react frameworks + js
 - ask me about terraria
 
-`npx no1an`
+```
+$ npx no1an
+```
 
 ## tech and tools
 
