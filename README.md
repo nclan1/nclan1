@@ -1,6 +1,6 @@
 # សួស្តី, I'm nolan 
 
-i wish i was the critically acclaimed director, alas, just a cs student @ boston university. i thrive on exploring new ideas and perspectives, always striving to learn from those around me. 
+i wish i was the critically acclaimed director, alas, just a cs student @ boston university. i'd love to learn something from you
 
 - i’m currently building the most random projects of all time
 - i'm currently learning how to [dougie](https://www.youtube.com/watch?v=0LLZ-PIx6Ss)
